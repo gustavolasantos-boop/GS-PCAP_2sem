@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Solicitar um novo Cartão SUS (CNS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "novo cartao nacional de saude",
+      "emitir cns",
+      "fazer cns",
+      "cartao nacional de saude",
+      "sus"
+    ],
+    "resposta": "Um novo Cartão Nacional de Saúde (CNS) não é emitido pelo aplicativo Meu SUS Digital. A primeira emissão e as alterações cadastrais devem ser solicitadas presencialmente em um estabelecimento de saúde. A página federal consultada não informa uma lista única de documentos, então confirme com a unidade antes de ir.",
+    "documentos": [
+      "A fonte federal consultada não detalha os documentos exigidos; pergunte à unidade de saúde antes do atendimento."
+    ],
+    "onde": "UBS ou outro estabelecimento de saúde do município.",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/9-como-faco-o-cartao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Pedir a segunda via ou impressão do Cartão SUS",
+    "palavras_chave": [
+      "segunda via cartao sus",
+      "2 via cartao sus",
+      "imprimir cartao sus",
+      "cartao sus impresso",
+      "perdi cartao sus",
+      "cartao digital sus",
+      "segunda via",
+      "perdi meu cartao sus",
+      "segunda via do cartao sus",
+      "imprimir segunda via cns"
+    ],
+    "resposta": "O Meu SUS Digital pode ser usado para apresentar o Cartão Nacional de Saúde em formato digital. Se você precisa do cartão impresso, solicite a impressão presencialmente em um estabelecimento de saúde. Confirme com a unidade como funciona o atendimento local.",
+    "documentos": [
+      "Para saber quais documentos levar para a impressão, confirme com o estabelecimento de saúde."
+    ],
+    "onde": "Aplicativo Meu SUS Digital para apresentar a versão digital, ou estabelecimento de saúde para solicitar impressão.",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/12-como-emitir-a-2a",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Encontrar o número do Cartão SUS no Meu SUS Digital",
+    "palavras_chave": [
+      "numero cns",
+      "numero cartao sus",
+      "ver cns",
+      "perfil meu sus digital",
+      "cartao digital meu sus",
+      "qr code sus",
+      "numero do cns",
+      "numero do cartao sus",
+      "onde vejo o cns",
+      "consultar cns no aplicativo"
+    ],
+    "resposta": "No aplicativo Meu SUS Digital, entre em Perfil e selecione o ícone do cartão. Ao virar o cartão na tela, aparecem o número do Cartão Nacional de Saúde (CNS) e o QR Code de identificação. O aplicativo mostra os dados que já existem no cadastro; ele não cria um novo número de CNS.",
+    "documentos": [
+      "É necessário conseguir acessar o aplicativo Meu SUS Digital; não digite CPF ou senha neste assistente."
+    ],
+    "onde": "Aplicativo Meu SUS Digital, na área Perfil.",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 4,
+    "categoria": "Saúde",
+    "titulo": "Consultar as vacinas indicadas para pessoas idosas",
+    "palavras_chave": [
+      "vacina idoso",
+      "calendario vacinacao idoso",
+      "vacinas 60 anos",
+      "vacina gripe idoso",
+      "vacina covid idoso",
+      "carteira de vacinacao"
+    ],
+    "resposta": "O Ministério da Saúde publicou o Calendário Nacional de Vacinação 2026 para pessoas idosas a partir de 60 anos. Ele inclui, entre outras indicações, influenza anual e doses de COVID-19 conforme o calendário, além de vacinas que dependem do histórico ou de situações específicas. Leve sua caderneta, se tiver, e peça à sala de vacinação para conferir quais doses se aplicam ao seu caso; esta ferramenta não avalia seu histórico clínico.",
+    "documentos": [
+      "A página do calendário não informa uma lista geral de documentos obrigatórios; confirme com a sala de vacinação. Leve a caderneta de vacinação, se tiver."
+    ],
+    "onde": "Sala de vacinação de uma UBS ou serviço do SUS indicado pelo município.",
+    "fonte": "https://www.gov.br/saude/pt-br/vacinacao/arquivos/calendario-nacional-de-vacinacao-idoso/view",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 5,
+    "categoria": "Saúde",
+    "titulo": "Direito a acompanhante durante internação ou observação",
+    "palavras_chave": [
+      "acompanhante hospital idoso",
+      "direito acompanhante",
+      "internacao idoso",
+      "observacao hospital",
+      "acompanhante pessoa idosa",
+      "direito a acompanhante",
+      "direito a acompanhante no hospital",
+      "acompanhante no hospital",
+      "idoso internado acompanhante"
+    ],
+    "resposta": "Segundo o Ministério da Saúde, a pessoa idosa que precisa ficar internada ou em observação tem direito a acompanhante no hospital. Converse com a equipe de atendimento para entender como organizar o acompanhamento durante a internação.",
+    "documentos": [
+      "Um documento com foto pode ajudar a comprovar a idade; confirme com a equipe do hospital os procedimentos da unidade."
+    ],
+    "onde": "Hospital ou serviço de saúde onde a pessoa estiver internada ou em observação.",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/direitos/direitos/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 6,
+    "categoria": "Transporte",
+    "titulo": "Usar transporte público urbano gratuito a partir dos 65 anos",
+    "palavras_chave": [
+      "passe livre idoso",
+      "transporte gratuito idoso",
+      "onibus gratuito 65 anos",
+      "gratuidade transporte urbano",
+      "transporte urbano idoso",
+      "onibus gratuito idoso",
+      "transporte gratuito para idoso",
+      "gratuidade onibus 65 anos",
+      "onibus gratuito para idoso",
+      "onibus gratuito para quem tem 65 anos",
+      "transporte gratuito para idosos",
+      "gratuidade transporte publico 65 anos"
+    ],
+    "resposta": "A gratuidade nos transportes coletivos públicos urbanos e semiurbanos é assegurada nacionalmente a partir dos 65 anos. Para comprovar a idade, a lei prevê a apresentação de qualquer documento pessoal que a demonstre. Serviços seletivos ou especiais que funcionam paralelamente ao serviço regular podem ficar fora dessa regra; confirme detalhes de embarque com a operadora local.",
+    "documentos": [
+      "Documento pessoal que comprove a idade, como RG ou CNH."
+    ],
+    "onde": "Transporte coletivo público urbano ou semiurbano regular; consulte a operadora para regras locais de embarque.",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/direitos/direitos/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 7,
+    "categoria": "Transporte",
+    "titulo": "Verificar gratuidade de transporte entre 60 e 64 anos",
+    "palavras_chave": [
+      "gratuidade transporte 60 anos",
+      "onibus gratuito 60 anos",
+      "passe idoso 60 a 64",
+      "lei municipal transporte idoso",
+      "transporte antes dos 65"
+    ],
+    "resposta": "A gratuidade nacional no transporte público urbano e semiurbano é garantida a partir dos 65 anos. Para pessoas entre 60 e 64 anos, o Estatuto da Pessoa Idosa deixa a definição da gratuidade a cargo da legislação local. Por isso, consulte a prefeitura ou a operadora do transporte do município onde pretende viajar.",
+    "documentos": [
+      "Pergunte à prefeitura ou à operadora local qual comprovante de idade e quais documentos são exigidos para eventual benefício municipal."
+    ],
+    "onde": "Prefeitura, secretaria municipal de transporte ou operadora local.",
+    "fonte": "https://www.gov.br/mdh/pt-br/centrais-de-conteudo/pessoa-idosa/estatuto-da-pessoa-idosa.pdf/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 8,
+    "categoria": "Transporte",
+    "titulo": "Solicitar benefício em viagem de ônibus interestadual",
+    "palavras_chave": [
+      "viagem interestadual idoso",
+      "passagem gratuita idoso",
+      "duas vagas gratuitas",
+      "desconto passagem idoso",
+      "onibus entre estados",
+      "passagem entre estados idoso",
+      "passagem gratuita de onibus entre estados",
+      "gratuidade em viagem interestadual"
+    ],
+    "resposta": "Em viagens de transporte coletivo interestadual, pessoas com 60 anos ou mais e renda de até dois salários mínimos têm direito a duas vagas gratuitas por veículo. Quando as vagas gratuitas reservadas já estiverem ocupadas, há direito a desconto de 50% na passagem, conforme as regras aplicáveis. Consulte a empresa antes da viagem para verificar disponibilidade, prazo e documentos aceitos.",
+    "documentos": [
+      "Documento que comprove a idade e comprovante de renda; a Carteira da Pessoa Idosa pode ser usada para comprovar renda. Confirme a lista e o prazo com a empresa."
+    ],
+    "onde": "Empresa de transporte rodoviário interestadual ou canal oficial de venda/atendimento da empresa.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/SUAS/servicos-e-programas/carteira-da-pessoa-idosa",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 9,
+    "categoria": "Transporte",
+    "titulo": "Emitir a Carteira da Pessoa Idosa",
+    "palavras_chave": [
+      "carteira da pessoa idosa",
+      "carteira do idoso",
+      "emitir carteira idoso",
+      "cras carteira idoso",
+      "cadunico transporte idoso",
+      "carteira idoso renda"
+    ],
+    "resposta": "A Carteira da Pessoa Idosa é uma forma de comprovar renda para obter o benefício de transporte interestadual. O benefício é destinado a pessoas com 60 anos ou mais e renda individual de até dois salários mínimos. A inscrição ou atualização do Cadastro Único deve ser feita no CRAS ou posto do CadÚnico da região. Segundo o MDS, a carteira fica disponível após 45 dias do cadastro ou atualização e pode ser emitida no portal oficial com conta gov.br; o CRAS pode orientar quem tiver dificuldade. Nunca digite CPF ou senha neste assistente.",
+    "documentos": [
+      "Para emissão online, o portal utiliza conta gov.br e CPF; mantenha o Cadastro Único atualizado. Não informe CPF ou senha no Citizen Assist Idoso."
+    ],
+    "onde": "CRAS ou posto do Cadastro Único para inscrição/atualização e orientação; portal oficial Carteira da Pessoa Idosa para emissão online.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/SUAS/servicos-e-programas/carteira-da-pessoa-idosa",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos e proteção",
+    "titulo": "Solicitar atendimento prioritário para pessoa idosa",
+    "palavras_chave": [
+      "atendimento prioritario idoso",
+      "prioridade atendimento 60 anos",
+      "fila preferencial idoso",
+      "documento provar idade",
+      "preferencial pessoa idosa",
+      "direito prioridade idoso"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais têm direito a atendimento prioritário conforme a legislação brasileira. Se necessário, apresente um documento pessoal com foto para comprovar a idade e peça orientação ao atendimento do local. Esta informação é geral; situações específicas devem ser confirmadas com o órgão ou estabelecimento responsável.",
+    "documentos": [
+      "Documento pessoal com foto para comprovar a idade, se solicitado."
+    ],
+    "onde": "Órgão público ou estabelecimento que presta atendimento ao público; solicite orientação à recepção.",
+    "fonte": "https://www.gov.br/mdh/pt-br/centrais-de-conteudo/pessoa-idosa/estatuto-da-pessoa-idosa.pdf/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 11,
+    "categoria": "Direitos e proteção",
+    "titulo": "Conhecer a prioridade especial para pessoas com 80 anos ou mais",
+    "palavras_chave": [
+      "prioridade especial 80 anos",
+      "pessoa idosa 80 anos",
+      "octogenario prioridade",
+      "fila 80 anos",
+      "prioridade sobre outros idosos",
+      "tenho 80 anos e quero prioridade",
+      "prioridade pessoa com 80 anos"
+    ],
+    "resposta": "O Ministério da Saúde informa que pessoas com 80 anos ou mais têm prioridade especial em relação às demais pessoas idosas em atendimentos e situações previstas na legislação, como filas, bancos e assentos no transporte público. Peça orientação ao responsável pelo atendimento caso a prioridade não seja observada.",
+    "documentos": [
+      "Documento pessoal que comprove a idade, se solicitado."
+    ],
+    "onde": "Local de atendimento, banco ou serviço de transporte em que a prioridade for aplicável.",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/direitos/direitos/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 12,
+    "categoria": "Direitos e proteção",
+    "titulo": "Denunciar violência ou maus-tratos contra pessoa idosa",
+    "palavras_chave": [
+      "violencia contra idoso",
+      "denunciar violencia idoso",
+      "disque 100 idoso",
+      "abuso pessoa idosa",
+      "maus tratos idoso",
+      "violencia financeira idoso"
+    ],
+    "resposta": "O Disque 100 recebe denúncias de violações de direitos humanos, incluindo violência contra pessoas idosas. O serviço é gratuito, funciona 24 horas por dia, todos os dias, e aceita denúncias de qualquer pessoa; a denúncia pode ser anônima. Se houver risco imediato, procure também o serviço de emergência adequado. Não relate nomes, endereços ou dados pessoais nesta ferramenta.",
+    "documentos": [
+      "A fonte informa que não é necessário ter provas concretas para denunciar; não envie documentos ou dados pessoais ao Citizen Assist Idoso."
+    ],
+    "onde": "Disque 100 (telefone) ou canais oficiais da Ouvidoria Nacional de Direitos Humanos.",
+    "fonte": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voce-sabe-como-denunciar-a-violencia-contra-pessoas-idosas",
+    "verificado_em": "2026-11-19"
+  }
+]

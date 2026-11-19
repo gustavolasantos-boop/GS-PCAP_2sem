@@ -1,0 +1,11 @@
+﻿atendimento,perfil_demo,pergunta,orientacao_id,orientacao,pontuacao_busca,confianca,orientacao_encontrada,ajudou_no_cenario_demo,tentativas_demo,tempo_segundos_demo,observacao
+1,P1,Como faço o cartão do SUS?,1,Solicitar um novo Cartão SUS (CNS),7,ALTA,sim,sim,1,12.4,A orientação de emissão do Cartão SUS foi localizada no cenário de demonstração.
+2,P1,Quais vacinas são indicadas para idosos?,4,Consultar as vacinas indicadas para pessoas idosas,3,MÉDIA,sim,sim,1,18.2,A busca retornou a orientação geral sobre vacinação de pessoas idosas.
+3,P1,Como funciona o ônibus gratuito para quem tem 65 anos?,6,Usar transporte público urbano gratuito a partir dos 65 anos,5,MÉDIA,sim,não,1,14.5,"A orientação foi localizada, mas o cenário demonstra que a regra municipal ainda precisa ser confirmada."
+4,P1,Como pedir segunda via do Cartão SUS?,2,Pedir a segunda via ou impressão do Cartão SUS,9,ALTA,sim,sim,1,19.6,A busca localizou a orientação de segunda via/impressão.
+5,P2,Como conseguir passagem gratuita de ônibus entre estados?,8,Solicitar benefício em viagem de ônibus interestadual,7,ALTA,sim,sim,1,13.7,A orientação sobre benefício em viagem interestadual foi localizada.
+6,P2,Como emitir a Carteira da Pessoa Idosa?,9,Emitir a Carteira da Pessoa Idosa,7,ALTA,sim,sim,1,11.3,A orientação sobre Carteira da Pessoa Idosa foi localizada.
+7,P2,Preciso tomar vacina contra gripe?,,,1,NÃO ENCONTRADA,não,não,2,24.6,A pergunta ficou abaixo do limite de pontuação; indica uma lacuna de palavra-chave.
+8,P3,Como pedir atendimento prioritário como idoso?,,,2,NÃO ENCONTRADA,não,não,2,16.2,A pergunta ficou abaixo do limite de pontuação; indica possível melhoria nas palavras-chave.
+9,P3,Como imprimir de novo meu Cartão SUS?,1,Solicitar um novo Cartão SUS (CNS),8,ALTA,sim,sim,1,10.6,A busca localizou uma orientação relacionada ao Cartão SUS.
+10,P3,Como renovar minha carteira de jardinagem?,,,1,NÃO ENCONTRADA,não,não,1,8.4,"A pergunta não corresponde à base, como esperado para um tema fora do escopo."
